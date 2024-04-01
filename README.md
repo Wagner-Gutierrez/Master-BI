@@ -19,6 +19,7 @@ Esse projeto destina-se a apresentação de um modelo para Business Inteligence 
   
 Link do repositório:
 
+https://github.com/Wagner-Gutierrez/Master-BI.git
 
 <br><br>
 
@@ -38,12 +39,19 @@ Power BI Desktop
 <br><br>
 
 * [Instalação](#instalação)
-  
-Baixe os arquivos do repositório e abra o arquivo Master-BI.pbix
-<br><br>
+
+Baixe e instale o Power BI Desktop
+  <br><br>
 
 * [Configuração e Execução](#configuração-e-Execução)
-  <br><br>
+
+
+Baixe os arquivos do repositório e abra o arquivo Master-BI.pbix no Power BI Desktop.
+
+
+Ajuste os patches:<br>
+No Power BI Desktop acesse o menu "Opções e Configurações", clique em "Configuração da fonte de dados", selecione a fonte de dados que deseja alterar, depois clique em "Alterar fonte..." e selecione o caminho onde os arquivos .xlsx baixados foram armazenados
+<br><br>
 
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
   
@@ -62,6 +70,15 @@ Wagner Gutierrez
 * [Licença](#licença)
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.<br><br>
+
+<br>
+
+* [Observações Gerais](#observações-gerais)
+
+
+Este projeto foi desenvolvido com todos os dados fabricados e todos os registros são fictícios.
+<br>
+<br>
 
 * [Conclusão](#conclusão)
   
