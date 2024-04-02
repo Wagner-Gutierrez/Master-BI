@@ -14,7 +14,33 @@ Esse projeto destina-se a apresentação de um modelo para Business Inteligence 
 
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 <br><br>
+Módulos do Projeto:
+<br>
+Módulo 1
 
+![Tela 1](https://github.com/Wagner-Gutierrez/Master-BI/assets/165159994/ed354dd8-f136-48fa-9451-49ce91f2b9b3)
+
+<br>
+Módulo 2
+
+![Tela 2](https://github.com/Wagner-Gutierrez/Master-BI/assets/165159994/25d9a3ee-a974-4ac7-ae38-d7619c3faf96)
+
+<br>
+Módulo 3
+
+![Tela 3](https://github.com/Wagner-Gutierrez/Master-BI/assets/165159994/22d36344-fe3b-497d-989f-ead7fd3c7c4e)
+
+<br>
+Módulo 4
+
+![Tela 4](https://github.com/Wagner-Gutierrez/Master-BI/assets/165159994/7c7c08a6-d709-491f-a13e-a9a72bcd004d)
+
+<br>
+Módulo 4 com barra de filtros aberta
+
+![Tela 4 com filtro](https://github.com/Wagner-Gutierrez/Master-BI/assets/165159994/fef6769d-1f87-48b4-90fe-5e89c8cc0d2c)
+
+<br><br>
 * [Acesso ao Projeto](#acesso-ao-projeto)
   
 Link do repositório:
@@ -22,8 +48,6 @@ Link do repositório:
 https://github.com/Wagner-Gutierrez/Master-BI.git
 
 <br><br>
-
-
 
 * [Tecnologias Utilizadas](#tecnologias-utilizadas)
 
