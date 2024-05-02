@@ -6,18 +6,19 @@
 Esse projeto destina-se a apresentação de um modelo para Business Inteligence no ramo de Corretoras de Seguros. Tem como objetivo extrair insights valiosos e avaliar o desempenho das vendas por equipe. Permitindo acompanhar a taxa de crescimento vs. ano anterior por várias visões, tais como: Grupo de Produção, Ponto de Venda, Produtor e Seguradora.
 <br><br>
 
-
-* [Status do Projeto](#status-do-Projeto)
-
-:construction:Em Construção :construction:
 <br><br>
 
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 <br><br>
 Módulos do Projeto:
 <br>
-Módulo 1
+Módulo 1 - Dash principal
+<br>
+Nesta sessão encontram-se os principais indicadores de vendas, tais como: totalizadores, médias, taxa de retenção de negócios e também o percentual de cancelamentos.
+Na parte inferior, podemos analisar a taxa de crescimento das vendas em relação ao mesmo período do ano anterior. 
+Esse modelo conta com 5 modos de visão disponíveis para análise, que no caso são: Pipeline, Grupo de Venda, Ponto de Venda, Produtor e Seguradora. 
 
+<br>
 ![Tela 1](https://github.com/Wagner-Gutierrez/Master-BI/assets/165159994/ed354dd8-f136-48fa-9451-49ce91f2b9b3)
 
 <br>
@@ -75,6 +76,12 @@ Baixe os arquivos do repositório e abra o arquivo Master-BI.pbix no Power BI De
 
 Ajuste os patches:<br>
 No Power BI Desktop acesse o menu "Opções e Configurações", clique em "Configuração da fonte de dados", selecione a fonte de dados que deseja alterar, depois clique em "Alterar fonte..." e selecione o caminho onde os arquivos .xlsx baixados foram armazenados
+<br><br>
+
+* [Status do Projeto](#status-do-Projeto)
+
+:construction:Em Construção :construction:
+
 <br><br>
 
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
