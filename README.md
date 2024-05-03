@@ -45,7 +45,7 @@ Este módulo traz os principais indicadores dos módulos anteriores. Traz també
 <br><br><br>
 Barra de filtros
 <br>
-Todas as telas possuem uma barra de filtros na lateral esquerda, onde é possível fazer análises mais detalhadas utilizando 1 ou mais filtros associados.
+Todas as telas possuem uma barra de filtros na lateral esquerda, onde é possível fazer análises mais detalhadas utilizando 1 ou mais filtros associados. Possibilitando assim muitos ângulos de visões.
 <br><br>
 
 ![Tela 4 com filtro](https://github.com/Wagner-Gutierrez/Master-BI/assets/165159994/fef6769d-1f87-48b4-90fe-5e89c8cc0d2c)
@@ -122,7 +122,7 @@ Este projeto foi desenvolvido com todos os dados fabricados por IA 🔮 e todos 
 
 * [Conclusão](#conclusão)
   
-É com grande satisfação e alegria que compartilho este projeto, e que ele venha ser semente de colaboração e fruto de inspiração para nossos irmãos desenvolvedores e todos amantes de tecnologia!💖🙌
+É com grande satisfação e alegria que compartilho este projeto. Que ele venha ser semente de colaboração e fruto de inspiração para nossos irmãos desenvolvedores e todos amantes de tecnologia!💖🙌
 <br><br><br><br>
 <h1>Gutierrez Tecnologia®</h1>
 
