@@ -1,5 +1,5 @@
 
-<h1>Projeto: Master BI</h1>
+<h1>Projeto: Master BI 🌌 </h1>
 
 * [Descrição do Projeto](#descrição-do-projeto)
   
@@ -8,12 +8,12 @@ Esse projeto destina-se a apresentação de um modelo para Business Inteligence 
 
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 <br><br>
-Módulos do Projeto:
+<h2>✨Módulos do Projeto:</h2>
 <br>
 Módulo 1 - Dash principal
 <br>
 Nesta sessão encontram-se os principais indicadores de vendas, tais como: totalizadores, médias, taxa de retenção de negócios e também o percentual de cancelamentos.<br>
-Na parte inferior, podemos analisar a taxa de crescimento das vendas em relação ao mesmo período do ano anterior. Sendo possível alternar entre os 5 modos de visão disponíveis para análise, que no caso são: Pipeline, Grupo de Venda, Ponto de Venda, Produtor e Seguradora. 
+Na parte inferior da tela, podemos analisar a taxa de crescimento das vendas em relação ao mesmo período do ano anterior. Sendo possível alternar entre os 5 modos de visão disponíveis para análise, que no caso são: Pipeline, Grupo de Venda, Ponto de Venda, Produtor e Seguradora. 
 <br><br>
 
 ![Tela 1](https://github.com/Wagner-Gutierrez/Master-BI/assets/165159994/ed354dd8-f136-48fa-9451-49ce91f2b9b3)
@@ -29,7 +29,7 @@ Este módulo traz os principais indicadores e matriz com comparativo de vendas c
 <br><br><br>
 Módulo 3 - Análise por Seguradora
 <br>
-Este módulo traz os principais indicadores e matriz com comparativo de vendas como nos módulos anteriores, porém, com todas as visões e componentes agrupados por Seguradora, trazendo rankeamento e evolução diária de vendas.
+Este módulo traz os principais indicadores e matriz com comparativo de vendas como nos módulos anteriores, porém, com todas as visões e componentes agrupados por Seguradora, trazendo rankeamento e evolução diária de vendas. Esse módulo foi aprimorado para o acompanhamento de desempenho das seguradoras.
 <br><br>
 
 ![Tela 3](https://github.com/Wagner-Gutierrez/Master-BI/assets/165159994/22d36344-fe3b-497d-989f-ead7fd3c7c4e)
@@ -37,7 +37,7 @@ Este módulo traz os principais indicadores e matriz com comparativo de vendas c
 <br><br><br>
 Módulo 4 - Comissões para promotores de vendas
 <br>
-Este módulo traz os principais indicadores dos módulos anteriores. Traz também uma matriz com os números de vendas e comissões relacionadas a cada promotor da campanha. 
+Este módulo traz os principais indicadores dos módulos anteriores. Traz também uma matriz com os números de vendas e comissões relacionadas a cada promotor e grupo de uma campanha específica. 
 <br><br>
 
 ![Tela 4](https://github.com/Wagner-Gutierrez/Master-BI/assets/165159994/7c7c08a6-d709-491f-a13e-a9a72bcd004d)
@@ -95,7 +95,7 @@ No Power BI Desktop acesse o menu "Opções e Configurações", clique em "Confi
 
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
   
-Agradeço imensamente a todos professores da Data Science Academy, principalmente ao professor Daniel Mendes que foi quem me direcionou nos caminhos da programação orientada a negócios, onde tive a oportunidade de aprender muitas tecnologias em um curto espaço de tempo, devido a didática eficientemente fantástica. A partir de então tive vários insights e pude implementá-los em alguns projetos em que estive trabalhando e este projeto é um deles!
+Agradeço imensamente a todos professores da Data Science Academy, principalmente ao professor Daniel Mendes que foi quem me direcionou nos caminhos da programação orientada a negócios, onde tive a oportunidade de aprender muitas tecnologias em um curto espaço de tempo, devido a didática eficientemente fantástica. A partir de então tive vários insights e pude implementá-los em alguns projetos em que estive trabalhando e este projeto é um deles!👏🏼 👏🏼 👏🏼 
 
 Site da DSA:
 
@@ -104,25 +104,25 @@ www.datascienceacademy.com.br
 <br><br>
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 
-Wagner Gutierrez
+⚡Wagner Gutierrez⚡
 <br><br>
 
 * [Licença](#licença)
 
-Este projeto está sob a licença GPL. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.<br><br>
+Este projeto está sob a licença GPL💪🏼. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.📖<br><br>
 
 <br>
 
 * [Observações Gerais](#observações-gerais)
 
 
-Este projeto foi desenvolvido com todos os dados fabricados por IA e todos os registros são fictícios.
+Este projeto foi desenvolvido com todos os dados fabricados por IA 🔮 e todos os registros são fictícios.
 <br>
 <br>
 
 * [Conclusão](#conclusão)
   
-É com grande alegria que compartilho este projeto, e que ele venha ser semente de colaboração e fruto de inspiração para nossos amigos desenvolvedores e todos amantes de tecnologia!
+É com grande satisfação e alegria que compartilho este projeto, e que ele venha ser semente de colaboração e fruto de inspiração para nossos irmãos desenvolvedores e todos amantes de tecnologia!💖🙌
 <br><br><br><br>
 <h1>Gutierrez Tecnologia®</h1>
 
