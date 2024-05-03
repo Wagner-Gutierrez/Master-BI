@@ -109,7 +109,7 @@ Wagner Gutierrez
 
 * [Licença](#licença)
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.<br><br>
+Este projeto está sob a licença GPL. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.<br><br>
 
 <br>
 
