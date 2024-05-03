@@ -95,7 +95,7 @@ No Power BI Desktop acesse o menu "Opções e Configurações", clique em "Confi
 
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
   
-Agradeço imensamente a todos professores da Data Science Academy, principalmente ao professor Daniel Mendes que foi quem me direcionou nos caminhos da programação orientada a negócios, onde tive a oportunidade de aprender muitas tecnologias em um curto espaço de tempo, devido a didática eficientemente fantástica. A partir de então tive vários insights e pude implementá-los em uns projetos em que estive trabalhando.
+Agradeço imensamente a todos professores da Data Science Academy, principalmente ao professor Daniel Mendes que foi quem me direcionou nos caminhos da programação orientada a negócios, onde tive a oportunidade de aprender muitas tecnologias em um curto espaço de tempo, devido a didática eficientemente fantástica. A partir de então tive vários insights e pude implementá-los em alguns projetos em que estive trabalhando e este projeto é um deles!
 
 Site da DSA:
 
@@ -116,7 +116,7 @@ Este projeto está sob a licença GPL. Veja o arquivo [LICENSE](LICENSE) para ma
 * [Observações Gerais](#observações-gerais)
 
 
-Este projeto foi desenvolvido com todos os dados fabricados e todos os registros são fictícios.
+Este projeto foi desenvolvido com todos os dados fabricados por IA e todos os registros são fictícios.
 <br>
 <br>
 
